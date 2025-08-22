@@ -1,0 +1,1 @@
+console.log(ordenarFila(["Carlos", "Ana", "João", "Beatriz"]));
